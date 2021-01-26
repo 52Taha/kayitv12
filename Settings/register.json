@@ -1,0 +1,25 @@
+{
+    "info": {
+    "tag": "TAGINIZI GİRİNİZ",
+    "yaşsınırı": "ÖRNEĞİN SUNCUNUZA KATILAN BİR KİŞİNİN YAŞI 5 İSE ONU KAYIT ETMEZ TIRNAKLARA DİKKET EDEREK YAŞI YAZABİLİRSİNİZ EĞER KULLNAMAK İSTEMEZSENİZ 1 2 GİBİ ŞEYLER YAZIN SATIRI SİLMEYİN	"
+    },
+    "roles": {
+    "erkek": ["ERKEK ROL 1","ERKEK ROL 2", "SADECE 1 TANE ERKEK ROLÜNÜZ VARSA TIRNAKLARI VE VİRGÜLLERİ SİLİN EN SONDAKİ PARANTEZİ SİLMEYİN"],
+    "kadın": ["KADIN ROL 1","KADIN ROL 2", "SADECE 1 TANE KADIN ROLÜNÜZ VARSA TIRNAKLARI VE VİRGÜLLERİ SİLİN EN SONDAKİ PARANTEZİ SİLMEYİN "],
+    "unregister": "UNREGİSTER ROLÜNÜZÜ GİRİNİZ",
+    "tagrole": "TAG ROLÜNÜZÜ GİRİNİZ",
+    "yetkilirole": ["YETKİLİ ROL 1","VARSA DAHA GİRİN YOKSA TIRNAKLARI VE VİRGÜLLERİ SİLİN","YETKİLİ ROL 3 "]
+    },
+    "channels": {
+    "log": "LOG KANALINIZ YOKSA OLUŞTURUP İDSİNİ GİRİNİZ",
+    "welcomelog": "HOŞ GELDİN KANALI İDSİNİ GİRİNİZ"
+    },
+    "bots": {
+    "prefix": "PREFİXİNİZ GİRİNİZ",
+    "token": "BOT TOKENİNİZİ GİRİNİZ", //BİZ ENVE ATMANIZ TARAFTARIYIZ BOTUNUUZN ÇALINMASI VB DURUMLARDA BİZE SÖYLENMEYİN
+    "botstatus": "BOT OYNUYORUNDA NE GÖZÜKECEKSE ONU GİRİNİZ"
+    },
+    "owners": {
+        "ownerid": "OWNER İD GİRİNİZ" //BİRDEN FAZLA SAHİP EKLEMK İSTERSENİZ SUNUCUMZDA VAR ALYAPI ROLÜ ALIP BAKARSINIZ
+    }
+}
